@@ -3,6 +3,7 @@
   <a href="https://github.com/thiagogebrimm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagogebrimm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogebrimm&layout=compact&langs_count=5&theme=dark"/>
+  [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogebrimm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
