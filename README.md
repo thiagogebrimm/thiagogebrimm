@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-Java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Thiago-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thiago-Kotlin" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Thiago-Biologia" height="35" width="35" src="https://imgur.com/1eBxhx0.png">
   <a href="https://rederevo.com" target="_blank"><img align="right" alt="Thiago-revo" height="120" src="https://imgur.com/dMswI7f.png">
 </div>
