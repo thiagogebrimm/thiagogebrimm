@@ -9,7 +9,7 @@
   <img align="center" alt="Thiago-Java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Thiago-Kotlin" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Thiago-Biologia" height="35" width="35" src="https://imgur.com/1eBxhx0.png">
-  <a href="https://rederevo.com" target="_blank"><img align="right" alt="Thiago-revo" height="120" src="https://i.imgur.com/Hu3AcY0.png">
+  <a href="https://rederevo.com" target="_blank"><img align="right" alt="Thiago-revo" height="120" src="https://i.imgur.com/ZTZz3tw.png">
 </div>
   
   ##
